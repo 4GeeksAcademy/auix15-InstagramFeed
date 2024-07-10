@@ -1,0 +1,45 @@
+.feed-header{
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.feed-body{
+    height: 1500px;
+    width: 100%;
+    background-color: rgb(171, 226, 43);
+    display: flex;
+    align-items: center;
+
+}
+.post{
+    height: 500px;
+    width: 40%;
+    background-color: rgb(0, 38, 255);
+    margin-top: 30px;
+}
+.post-header{
+    height: 10%;
+    width: 100%;
+    background-color: darkblue;
+    display: flex;
+    justify-content: space-between;
+}
+.post-img{
+    height: 80%;
+    width: 100%;
+    background-image: url();
+    background-position: center;
+}
+.post-footer{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(139, 0, 97);
+}
+.left-column{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
